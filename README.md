@@ -1,7 +1,7 @@
 Somebody Should
 ===============
 
-A place to collect issues/suggestions/to-do items for the physical space at DoES Liverpool
+A place to collect issues/suggestions/to-do items for the city of Liverpool, in North-West England.
 
 There isn't any source code for the city, we're just using this to track issues.
 
