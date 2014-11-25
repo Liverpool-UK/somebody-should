@@ -13,4 +13,6 @@ If you feel like you have the ability and time to take lead on any issue, just l
 
 Use labels to mark the issues with any suitable tags, so that it's easy for someone to find all the outstanding bugs, or all the things related to an area, or similar.  Create new labels if there's a class of issue that we're missing.
 
+If you're not sure what all this is on about, the best way to start is to [go look at the issues other people have raised](https://github.com/Liverpool-UK/somebody-should/issues). (the link is over on the right-hand-side, but isn't all that obvious if you haven't used Github before...)
+
 For some more background on good practice when using issues, read http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/.  It's about Github's culture and process rather than ours, but until someone gets round to writing ours...
